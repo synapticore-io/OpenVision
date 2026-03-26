@@ -1,5 +1,7 @@
 # OpenVision <img src="assets/icon.png" width="36"> & OpenVision 2 <img src="assets/openvision_v1.5_logo.png" width="36">
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N71WOHZ3)
+
 ### OpenVision: A Fully-Open, Cost-Effective Family of Advanced Vision Encoders for Multimodal Learning  
 ### OpenVision 2: A Family of Generative Pretrained Visual Encoders for Multimodal Learning 
 
